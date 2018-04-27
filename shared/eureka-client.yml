@@ -1,2 +1,4 @@
 
 boo: boo version base
+token: eureka
+cureka-client : true
